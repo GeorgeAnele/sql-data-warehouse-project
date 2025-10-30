@@ -131,6 +131,9 @@ I bring a unique blend of **analytical precision** from my medical background an
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinedu-anele-b46464194)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GeorgeAnele)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348123001381)
+[![Call](https://img.shields.io/badge/Call-007AFF?style=for-the-badge&logo=apple&logoColor=white)](tel:+2349031811486)
 
 ---
 
